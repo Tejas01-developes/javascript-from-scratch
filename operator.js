@@ -35,4 +35,13 @@
 // console.log(y)
 
 
+let x=true
+
+if(x){
+   x=20
+   console.log(x) 
+}else{
+    console.log("passed no change")
+}
+
 

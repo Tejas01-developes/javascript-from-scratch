@@ -1,3 +1,3 @@
-let x=true
-// let y= x ??= 10
-// console.log(y)
+let x=false
+let y= x ||= 10
+console.log(y)
