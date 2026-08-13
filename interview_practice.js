@@ -44,3 +44,29 @@
 // })();
 
 
+// var a="tejas"
+// age=21
+
+// console.log(delete a)
+// console.log(delete age)
+
+
+// function getItems(fruitList, args, ...favoriteFruit) {
+//     return [...fruitList, args, favoriteFruit]
+//   }
+  
+//   console.log(getItems(["banana", "apple"], "pear", "orange"))
+
+
+// const user={
+// emaill:"t@gmail.com",
+// update:function(email){
+//     this.emaill=email
+// }
+// }
+
+// user.update("tt@gmail.com")
+
+// console.log(user.emaill)
+
+
