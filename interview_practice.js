@@ -70,3 +70,16 @@
 // console.log(user.emaill)
 
 
+// [1, 2, 3, 4].reduce((x, y) => console.log(x, y));
+
+// console.log('i want pizza'[0])
+
+
+function getinfo(one,two,three){
+console.log(one)
+console.log(two)
+console.log(three)
+}
+const person="Tejas"
+const age=21
+getinfo `age of ${person} ${age}`
