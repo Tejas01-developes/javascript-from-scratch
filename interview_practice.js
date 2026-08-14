@@ -75,11 +75,33 @@
 // console.log('i want pizza'[0])
 
 
-function getinfo(one,two,three){
-console.log(one)
-console.log(two)
-console.log(three)
-}
-const person="Tejas"
-const age=21
-getinfo `age of ${person} ${age}`
+// function getinfo(one,two,three){
+// console.log(one)
+// console.log(two)
+// console.log(three)
+// }
+// const person="Tejas"
+// const age=21
+// getinfo `age of ${person} ${age}`
+
+
+// const teams = [
+//   { name: 'Team 1', members: ['Paul', 'Lisa'] },
+//   { name: 'Team 2', members: ['Laura', 'Tim'] },
+// ];
+
+// function* getMembers(members) {
+//   for (let i = 0; i < members.length; i++) {
+//     yield members[i];
+//   }
+// }
+
+// function* getTeams(teams) {
+//   for (let i = 0; i < teams.length; i++) {
+//     // ✨ SOMETHING IS MISSING HERE ✨
+//   }
+// }
+
+// const obj = getTeams(teams);
+// obj.next(); // { value: "Paul", done: false }
+// obj.next(); // { value: "Lisa", done: false }
