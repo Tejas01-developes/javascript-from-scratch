@@ -105,3 +105,38 @@
 // const obj = getTeams(teams);
 // obj.next(); // { value: "Paul", done: false }
 // obj.next(); // { value: "Lisa", done: false }
+
+
+// const person={
+//   name:'tejas',
+//  [ "tejas age"]:21
+// }
+
+// let city=person;
+// city["tejas age"]="vadodara"
+// // city="vadodara"
+// // person.city="vadodara"
+
+// console.log(city)
+
+
+// const name = 'Lydia Hallie';
+
+// console.log(!typeof name === 'object');
+// console.log(!typeof name === 'string');
+
+// function getName(name) {
+//   const hasName = name
+//   console.log(hasName)
+// }
+
+// getName("tejas")
+
+const getList = ([x, ...y]) => [x, y]
+const getUser = user => ({ name: user.name, age: user.age })
+
+const list = [1, 2, 3, 4]
+const user = { name: "Lydia", age: 21 }
+
+console.log(getList(list))
+console.log(getUser(user))
