@@ -132,11 +132,20 @@
 
 // getName("tejas")
 
-const getList = ([x, ...y]) => [x, y]
-const getUser = user => ({ name: user.name, age: user.age })
+// const getList = ([x, ...y]) => [x, y]
+// const getUser = user => ({ name: user.name, age: user.age })
 
-const list = [1, 2, 3, 4]
-const user = { name: "Lydia", age: 21 }
+// const list = [1, 2, 3, 4]
+// const user = { name: "Lydia", age: 21 }
 
-console.log(getList(list))
-console.log(getUser(user))
+// console.log(getList(list))
+// console.log(getUser(user))
+
+// index.js
+// console.log('running index.js');
+// import { sum } from './sum.js';
+// console.log(sum(1, 2));
+
+// // sum.js
+// console.log('running sum.js');
+// export const sum = (a, b) => a + b;
