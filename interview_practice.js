@@ -149,3 +149,11 @@
 // // sum.js
 // console.log('running sum.js');
 // export const sum = (a, b) => a + b;
+
+
+const info = {
+  [Symbol('a')]: 'b',
+};
+
+console.log(info)
+console.log(Object.keys(info))
