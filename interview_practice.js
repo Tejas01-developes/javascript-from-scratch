@@ -151,9 +151,45 @@
 // export const sum = (a, b) => a + b;
 
 
-const info = {
-  [Symbol('a')]: 'b',
-};
+// const info = {
+//   [Symbol('a')]: 'b',
+// };
 
-console.log(info)
-console.log(Object.keys(info))
+// console.log(info)
+// console.log(Object.keys(info))
+
+// const a=[1,2,3,4]
+
+
+// for(var i=0; i < 8; i++){
+//   a.push(i)
+// }
+// console.log(a)
+
+
+// const obj1={
+// name:"Tejas"
+// }
+
+// function adddetail(){
+//  const obj2={obj1,age:21}
+//  console.log(obj2)
+// }
+// adddetail()
+// obj1()
+
+// obj1=()=>{
+//   let name="tejas"
+//   console.log(name)
+// }
+
+
+// function obj1(name){
+//  this.name=name
+//  console.log(this.name)
+// }
+
+// const define=new obj1("tejas")
+// console.log(typeof define)
+
+
