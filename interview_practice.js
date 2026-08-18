@@ -192,4 +192,41 @@
 // const define=new obj1("tejas")
 // console.log(typeof define)
 
+// let obj={name:"tejas"}
 
+// const member=[obj]
+// obj.name="Pinal"
+// console.log(member)
+
+
+// function compareMembers(person1, person2 = person) {
+//   if (person1 !== person2) {
+//     console.log('Not the same!');
+//   } else {
+//     console.log('They are the same!');
+//   }
+// }
+
+// const person = { name: 'Lydia' };
+// // const person2p="Lydia"
+// compareMembers(person,person2p);
+
+
+// function sumValues(x, y, z) {
+//    const sum=x + y + z;
+//    console.log(sum)
+// }
+
+// sumValues(...[1,2,3])
+
+
+const bird = {
+  size: 'small',
+};
+
+const mouse = {
+  name: 'Mickey',
+  small: true,
+};
+
+console.log(mouse[bird["size"]])
