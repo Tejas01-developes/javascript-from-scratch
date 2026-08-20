@@ -220,13 +220,33 @@
 // sumValues(...[1,2,3])
 
 
-const bird = {
-  size: 'small',
-};
+// const bird = {
+//   size: 'small',
+// };
 
-const mouse = {
-  name: 'Mickey',
-  small: true,
-};
+// const mouse = {
+//   name: 'Mickey',
+//   small: true,
+// };
 
-console.log(mouse[bird["size"]])
+// console.log(mouse[bird["size"]])
+
+// const config={
+//   lang:[5,4,3],
+//   get lang(){
+//     return lang[0]
+//   }
+// }
+
+// console.log(config.lang)
+
+
+const a={
+  name:"Tejas"
+}
+
+const b={
+  name:"Jainam"
+}
+
+console.log(a[b])
