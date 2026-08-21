@@ -241,12 +241,12 @@
 // console.log(config.lang)
 
 
-const a={
-  name:"Tejas"
-}
+// const a={
+//   name:"Tejas"
+// }
 
-const b={
-  name:"Jainam"
-}
+// const b={
+//   name:"Jainam"
+// }
 
-console.log(a[b])
+// console.log(a[b])
