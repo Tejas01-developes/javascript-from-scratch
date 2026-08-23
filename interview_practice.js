@@ -250,3 +250,27 @@
 // }
 
 // console.log(a[b])
+
+// const handler = {
+//   set: () => console.log('Added a new property!'),
+//   get: () => console.log('Accessed a property!'),
+// };
+
+// const person = new Proxy({}, handler);
+
+// person.name = 'Lydia';
+// person.name;
+
+
+const a={
+  name:"Tejas"
+}
+a["age"]=21
+
+const b={
+  age:21
+}
+
+
+
+console.log(a.age)
