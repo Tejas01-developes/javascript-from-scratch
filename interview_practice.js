@@ -262,15 +262,20 @@
 // person.name;
 
 
-const a={
-  name:"Tejas"
-}
-a["age"]=21
+// const a={
+//   name:"Tejas"
+// }
+// a["age"]=21
 
-const b={
-  age:21
-}
+// const b={
+//   age:21
+// }
 
 
 
-console.log(a.age)
+// console.log(a.age)
+
+
+// let greeting;
+// greetign = {}; // Typo!
+// console.log(greeting);
