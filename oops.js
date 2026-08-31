@@ -46,20 +46,21 @@
 // const p3=users.timepass()
 // console.log(users.count)
 
-class p1{
-    constructor(degree){
-        this.degree=degree
-    }
-}
+// class p1{
+//     constructor(degree){
+//         this.degree=degree
+//     }
+// }
 
-class p2 extends p1{
-    constructor(degree,name,age){
-        super(degree)
-        this.name=name
-        this.age=age
-    }
-}
+// class p2 extends p1{
+//     constructor(degree,name,age){
+//         super(degree)
+//         this.name=name
+//         this.age=age
+//     }
+// }
 
-const p=new p2("bscit","tejas",21)
+// const p=new p2("bscit","tejas",21)
 
-console.log(p.degree)
+// console.log(p.degree)
+
