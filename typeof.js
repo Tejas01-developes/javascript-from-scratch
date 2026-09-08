@@ -1,12 +1,12 @@
-let empty=null
+// let empty=null
 
-console.log(typeof empty)
+// console.log(typeof empty)
 
-function hello(){}
+// function hello(){}
 
-console.log(typeof hello)
+// console.log(typeof hello)
 
 
-const values=["tejas","jainam","pappu","lucky"]
+// const values=["tejas","jainam","pappu","lucky"]
 
-console.log(Array.isArray(values))
+// console.log(Array.isArray(values))
