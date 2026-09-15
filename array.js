@@ -9,15 +9,15 @@
 
 
 // 2.Leaders in an array
-const arr= [16, 17, 4, 3, 5, 2]
-function findleader(array){
-let n=arr.length
-let leaders=[]
+// const arr= [16, 17, 4, 3, 5, 2]
+// function findleader(array){
+// let n=arr.length
+// let leaders=[]
 
-let maxright=arr[n-1]
-leaders.push(maxright)
+// let maxright=arr[n-1]
+// leaders.push(maxright)
 
-for(let i=n-2;i>=0 ; i--){
+// for(let i=n-2;i>=0 ; i--){
     
-}
-}
+// }
+// }
