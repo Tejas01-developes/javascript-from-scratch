@@ -28,15 +28,15 @@
 
 
 
-// console.log(JSON.parse(p1))
+// // console.log(JSON.parse(p1))
 
 
-const a=[1,2,3,4,5,6,7,8,89,90]
+// const a=[1,2,3,4,5,6,7,8,89,90]
 
 
-for(arr of a){
-    console.log(JSON.parse(arr))
-}
+// for(arr of a){
+//     console.log(JSON.parse(arr))
+// }
 
 
 
