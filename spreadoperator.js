@@ -1,6 +1,6 @@
-let text="12345"
-console.log(text)
-console.log(...text)
+// let text="12345"
+// console.log(text)
+// console.log(...text)
 
-let a=Math.min(...text)
-console.log(a)
+// let a=Math.min(...text)
+// console.log(a)
