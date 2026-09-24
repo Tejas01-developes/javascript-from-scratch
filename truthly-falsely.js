@@ -9,13 +9,13 @@
 // -NaN
 
 // eg:-
-if (0) {
-    console.log("This will NEVER run because 0 is falsy.");
-}
+// if (0) {
+//     console.log("This will NEVER run because 0 is falsy.");
+// }
 
-if ("") {
-    console.log("This will NEVER run because an empty string is falsy.");
-}
+// if ("") {
+//     console.log("This will NEVER run because an empty string is falsy.");
+// }
 
 // truthy values:-
 
