@@ -25,23 +25,29 @@
 // }
 
 
-const prices = [7,1,5,3,6,4]
+// const prices = [7,1,5,3,6,4]
 
-let minprise=prices[0]
-let maxprofit=0
+// let minprise=prices[0]
+// let maxprofit=0
 
-for(i=1; i < prices.length; i++){
-const profit=prices[i] - minprise
+// for(i=1; i < prices.length; i++){
+// const profit=prices[i] - minprise
 
-if(profit > maxprofit){
-maxprofit=profit
-}
-if(prices[i] < minprise){
-    minprise=prices[i]
-}
+// if(profit > maxprofit){
+// maxprofit=profit
+// }
+// if(prices[i] < minprise){
+//     minprise=prices[i]
+// }
 
-}
+// }
 
-console.log(maxprofit)
+// console.log(maxprofit)
 
+
+// let a=5
+// a++
+// const b=a
+
+// console.log(++a)
 
