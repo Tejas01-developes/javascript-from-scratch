@@ -25,6 +25,9 @@
 // }
 
 
+
+//2. Best time to buy and sell the stock
+
 // const prices = [7,1,5,3,6,4]
 
 // let minprise=prices[0]
