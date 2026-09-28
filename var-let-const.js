@@ -34,10 +34,10 @@
 // }                                 // js looks locally first then inside the function thta is why    const a=20  this inside function worked  although const a is declared outside also 
 // fun2()
 // console.log(a)
-name()
-const name=function(){
-    console.log("tejas")
-}
+// name()
+// const name=function(){
+//     console.log("tejas")
+// }
 
 
 
