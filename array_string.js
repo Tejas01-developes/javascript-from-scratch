@@ -54,3 +54,8 @@
 
 // console.log(++a)
 
+
+// break 
+// return
+// skip
+// continue
