@@ -41,3 +41,21 @@
 
 
 
+// let a=10
+
+// {
+//     a=20
+// }
+
+// console.log(a);
+
+
+//in let the new memory block is made when new value is added and in var that same memory block is updated so that is the the difference and in const ones written cannot be  changed
+
+
+// const a=10
+
+// {
+//     const a=20
+// }
+// console.log(a);
