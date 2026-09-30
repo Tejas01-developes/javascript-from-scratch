@@ -1,10 +1,17 @@
-const a=24
-try{
-if(a < 21){
-    return console.log(`age is ${a}`);
-}
-}catch(err){
-throw new Error(err)
-}finally{
-console.log("finally executed")
-}
+// const a=24
+// try{
+// if(a < 21){
+//     return console.log(`age is ${a}`);
+// }
+// }catch(err){
+// throw new Error(err)
+// }finally{
+// console.log("finally executed")
+// }
+
+// let a=10
+
+// console.log(++a);
+
+
+console.log([] && "");
