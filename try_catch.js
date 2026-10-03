@@ -14,4 +14,21 @@
 // console.log(++a);
 
 
-console.log([] && "");
+// console.log([] && "");
+
+// const a=[{name:"Tejas",age:21},{name:"Jainam",age:18},{name:"Lucky",age:19},{name:"Pappu",age:20},{name:"Dhruv",age:20}]
+
+// const map=new Map()
+// for(let x of a){
+//    map.set(x.name,x.age)
+// }
+
+// console.log(map);
+
+// for(let [x,y] of map){
+//     console.log(y);
+// }
+
+
+
+
