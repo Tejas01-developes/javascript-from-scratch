@@ -51,3 +51,25 @@
 //     console.log(space.repeat(n - 1) + "*".repeat(2 * i + 1));
 // }
 
+// let n=2
+
+// for(let i=1; i<=10; i++){
+//     console.log(`${n}  x  ${i} = ${n*i}`)
+// }
+
+// const a=[3,6,8,4,9,0]
+
+// a.forEach((i)=>{
+// console.log(i);
+// })
+
+// const a=[3,6,8,4,9,0]
+
+// console.log(a.findIndex);
+
+const a={
+    name:"tejas",
+    age:21
+}
+
+console.log(a["name"])
