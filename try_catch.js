@@ -67,9 +67,10 @@
 
 // console.log(a.findIndex);
 
-const a={
-    name:"tejas",
-    age:21
-}
+// const a={
+//     name:"tejas",
+//     age:21
+// }
 
-console.log(a["name"])
+// console.log(a["name"])
+
