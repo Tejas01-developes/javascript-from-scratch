@@ -74,3 +74,15 @@
 
 // console.log(a["name"])
 
+let multiply=null
+function count(n) {
+    if (n === 0) {
+        return;
+    }
+
+    multiply=n * (n-1);
+   count(n - 1)
+}
+
+count(3);
+
