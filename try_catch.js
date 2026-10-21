@@ -86,3 +86,10 @@
 
 // console.log( count(5))
 
+
+const map=new Map()
+
+
+map.add("name","tejas")
+
+console.log(map.get)
