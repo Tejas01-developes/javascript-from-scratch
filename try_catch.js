@@ -87,9 +87,24 @@
 // console.log( count(5))
 
 
-const map=new Map()
 
 
-map.add("name","tejas")
+// const map=new Map()
 
-console.log(map.get)
+
+// map.set("tejas",21)
+// map.set("pappu",20)
+// map.set("lucky",20)
+// map.set("jainam",19)
+
+
+
+// map.forEach(function(key,value){
+//     console.log(value,key);
+// })
+
+
+// for(let [key,value] of map){
+// console.log(value,key);
+// }
+
