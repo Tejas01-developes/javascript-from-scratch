@@ -99,14 +99,14 @@
 
 
 
-map.forEach(function(key,value){
-    console.log(value,key);
-})
+// map.forEach(function(key,value){
+//     console.log(value,key);
+// })
 
 
-for(let [key,value] of map){
-console.log(value,key);
-}
+// for(let [key,value] of map){
+// console.log(value,key);
+// }
 
 
 
