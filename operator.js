@@ -46,3 +46,15 @@
 
 
 
+
+
+// const map=new Map()
+
+// map.set("name","tejas")
+// console.log(map.get("name"))
+
+// console.log(map.has("name"));
+// has checks that is that key with that name exist or not 
+// delete remove the element from the map and cler remove all the elements from the map
+
+
