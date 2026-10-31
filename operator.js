@@ -58,3 +58,6 @@
 // delete remove the element from the map and cler remove all the elements from the map
 
 
+const text="my name is Tejas Limbad and i work at Edlogica as the Full Stack developer role"
+
+console.log(res);
