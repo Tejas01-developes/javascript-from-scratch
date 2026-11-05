@@ -58,6 +58,37 @@
 // delete remove the element from the map and cler remove all the elements from the map
 
 
-const text="my name is Tejas Limbad and i work at Edlogica as the Full Stack developer role"
+// const text="my name is Tejas Limbad"
 
-console.log(res);
+// const text2="and i work at Edlogica as the Full Stack developer role"
+// const res=text.concat(text2)
+// for(let a of text){
+//     console.log(a);
+// }
+
+
+
+
+
+// const a=[2,5,4,7,8,9,3]
+
+// console.log(a.slice(1,3))
+// console.log(a);
+
+
+// const body=new FormData()
+
+// body.append("name","Tejas")
+// body.append("age",21)
+// console.log(body.entries("age","name"))
+
+// console.log(body);
+
+
+
+
+// const body=new Map()
+
+// body.set("name","Tejas")
+// body.set("age","21")
+// body.forEach((key,value)=>console.log(value))
